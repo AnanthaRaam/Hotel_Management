@@ -12,8 +12,4 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <sonar.organization>anantharaam</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
-<properties>
-  <sonar.organization>anantharaam</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
 </project>  
